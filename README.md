@@ -230,7 +230,7 @@ Potential extensions include:
 
 The following figure shows the measurements collected from the six sensors during the analysis of burned cacao beans (ICS39). The signals are plotted over time to observe their behavior and identify variations in sensor responses.
 
-![Burned Cacao Sensor Data (ICS39)](images/Burned Cocoa Sensor Data .png)
+![Burned Cacao Sensor Data](<images/Burned Cocoa Sensor Data .png>)
 
 **Figure 1.** Sensor measurements for burned cacao beans (ICS39).
 
