@@ -237,9 +237,10 @@ The following figure shows the measurements collected from the six sensors durin
 
 The following figure shows the measurements collected from the six sensors during the analysis of dried cacao beans (ICS39). The signals are plotted over time to observe their behavior and identify variations in sensor responses.
 
-![Burned Cacao Sensor Data (ICS39)](images/Dried Cocoa Sensor Data.png)
+Dried Cocoa Sensor Data.png
+![Burned Cacao Sensor Data](<images/Dried Cocoa Sensor Data.png>)
 
-**Figure 1.** Sensor measurements for burned cacao beans (ICS39).
+**Figure 2.** Sensor measurements for dried cacao beans (ICS39).
 
 ## Author
 
